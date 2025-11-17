@@ -142,7 +142,7 @@ Strongest correlations with rental demand:
 ## 🌳 Hierarchical Clustering (Ward)
 
 <div align="center">
-  <img src="images/bike_dendrogram.png" width="650"/>
+  <img src="images/bike_dendrogram.png" width="800"/>
   <p><em>Dendrogram showing clear 4-cluster structure.</em></p>
 </div>
 
