@@ -23,7 +23,7 @@ The dataset includes:
 - **Holiday**, **Functioning Day**, **Season**
 
 <div align="center">
-  <img src="images/bike_data_structure.png" width="650"/>
+  <img src="images/bike_data_structure.png" width="400"/>
   <p><em>Dataset structure and features.</em></p>
 </div>
 
