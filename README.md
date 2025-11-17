@@ -41,7 +41,7 @@ The dataset includes:
   - Rainfall, Snowfall  
 
 <div align="center">
-  <img src="images/bike_missing.png" width="650"/>
+  <img src="images/bike_missing.png" width="400"/>
   <p><em>No missing values in the dataset.</em></p>
 </div>
 
